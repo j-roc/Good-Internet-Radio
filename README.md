@@ -14,6 +14,7 @@ Illegally broadcast radio. The internet streams are legal, of course, but the FC
 San Francisco based, listener supported radio in various formats.
 
 ### Ambient
+Stations specializing in ambient, chillout, nature sounds, etc. "slow music for fast times"
 
 ### Electronic
 Stations specializing in electronic music like drum & bass, house, techno, etc. A lot of these started off as pirate stations in the UK.
