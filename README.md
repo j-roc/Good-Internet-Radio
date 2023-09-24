@@ -48,6 +48,12 @@ San Francisco based, listener supported radio in various formats. This site was 
 
 Homepage: [https://somafm.com/](https://somafm.com/)
 
+### WMFU
+
+Legendary open format public radio from New Jersey. They play almost anything but are especially famed for niche genres like garage rock, exotica and experimental music.
+
+Hompage: [https://wfmu.org/](https://wfmu.org/)
+
 ### Dead
 
 Files in here are not working. They might be able to be made to work or they might start working again at some point. Whenever I checked they weren't and I couldn't easily update them. Please let me know if you have updates for them. The BBC used to allow streaming via mp3 of all their stations, but appear to have geofenced that and require you to use their website now if you're outside of the UK. Wankers.
