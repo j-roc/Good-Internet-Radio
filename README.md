@@ -1,6 +1,6 @@
 # Good Internet Radio
 
-A currated list of good internet radio stations that are accessible via apps like Winamp and probably other things like hardware devices. These are all free to listen to, non-geofenced and preferably ad free, though there can be exceptions of the ads aren't shitty. The main criteria I have is "do I enjoy listening to it?".
+A currated list of good internet radio stations that are accessible via apps like Winamp and probably other things like hardware devices. These are all free to listen to, non-geofenced and preferably ad free, though there can be exceptions if the ads aren't shitty. The main criteria I have is "do I enjoy listening to it?".
 
 ## Categories
 
